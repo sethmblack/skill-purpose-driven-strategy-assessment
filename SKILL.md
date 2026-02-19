@@ -3,8 +3,9 @@ name: purpose-driven-strategy-assessment
 description: Evaluate whether a business strategy authentically integrates purpose with profit, distinguishing genuine transformation from CSR theater.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4771
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - purpose-driven-strategy-assessment
 - transformation
